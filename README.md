@@ -1,7 +1,7 @@
 ## Contact me on:
 Email: vergon3.42x@gmail.com \
 Phone no.: +7 (961) 653-83-23  \
-GitHub: [github.com/BVDIDEV-stdio](https://github.com/BVDIDEV-stdio) *//but you are here already* \
+GitHub: [github.com/BVDIDEV-stdio](https://github.com/BVDIDEV-stdio) *//но Вы и так здесь* 
 
 ## General:
 ### Образование:
@@ -36,6 +36,7 @@ GitHub: [github.com/BVDIDEV-stdio](https://github.com/BVDIDEV-stdio) *//but you 
 - персонаж противника с простой логикой, способный патрулировать местность или бегать к игроку, чтобы атаковать; (похож по поведению на обычного противника из Holow Knight)
 - логика лечения посредством хилящих предметов в игровом мире
 Проект создавался с упором на уменьшение взаимозависимости компонентов, модульность и облегчение масштабирования в будущем, дабы в него было достаточно просто вносить улучшения и перерабатывать механики, не "перелопачивая" весь остальной код игры.
+  [](thesis_scheme_1.png)
 
 
 
