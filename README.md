@@ -59,24 +59,6 @@ Github: https://github.com/BVDIDEV-stdio/THESIS_WORK
 https://youtu.be/MTQOhWPwzuw
 Этот миниатюрный сниппет-проект включает в себя систему модульных персонажей, а также анимационный риг с инверсной кинематикой ног для "align-а" с наклонными и неровными поверхностями.
 ### Моделинг
-![](/SHOTGUN_STYLIZED.png)
-![](/SHOTGUN_STYLIZED_2.png)
-*Стилизованный дробовик, старая работа*
-![](/mp_styl.png)
-![](/mp_styl_2.png)
-*стилизованный MP5, тоже старая работа*
-![](/port_arm.png)
-![](/port_char.png)
-![](/port_char2.png)
-![](/port_char3.png)
-![](/port_char4.png)
-*Минималистичный персонаж, модель для тренировки*
-![](/study_columns.png)
-![](/study_spike_n_arc.png)
-*Некоторые из моделей, сделанных в командном проекте для магистратуры*
-![](/sawd_off1.png)
-![](/sawd_off2.png)
-*Стилизованный дробовик-"обрез" для пет-проекта*
 <div>
   <img src="/SHOTGUN_STYLIZED.png" width="240"/>
   <img src="/SHOTGUN_STYLIZED_2.png" width="240"/>
