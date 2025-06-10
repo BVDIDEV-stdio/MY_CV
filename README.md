@@ -52,4 +52,5 @@ GitHub: [github.com/BVDIDEV-stdio](https://github.com/BVDIDEV-stdio) *//но В�
 ![](/thes_ui_2.png)
 *Простой юай*
 
+![если видео не появилось, то можете нажать ссылку на yt](/Project1.mov)
 
