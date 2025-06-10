@@ -55,7 +55,10 @@ GitHub: [github.com/BVDIDEV-stdio](https://github.com/BVDIDEV-stdio) *//но В�
 YouTube: https://youtu.be/yQFOX5VP178
 Github: https://github.com/BVDIDEV-stdio/THESIS_WORK
 
-### Пет-проект 
+### Моделинг
+![](/SHOTGUN_STYLIZED.png)
+![](/SHOTGUN_STYLIZED_2.png)
+*Стилизованный дробовик*
 
 
 
