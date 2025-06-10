@@ -58,7 +58,17 @@ Github: https://github.com/BVDIDEV-stdio/THESIS_WORK
 ### Моделинг
 ![](/SHOTGUN_STYLIZED.png)
 ![](/SHOTGUN_STYLIZED_2.png)
-*Стилизованный дробовик*
+*Стилизованный дробовик, старая работа*
+![](/mp_styl.png)
+![](/mp_styl_2.png)
+*стилизованный MP5, тоже старая работа*
+![](/port_arm.png)
+![](/port_char.png)
+![](/port_char2.png)
+![](/port_char3.png)
+![](/port_char4.png)
+*Минималистичный персонаж, модель для тренировки*
+
 
 
 
