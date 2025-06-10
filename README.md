@@ -39,9 +39,9 @@ GitHub: [github.com/BVDIDEV-stdio](https://github.com/BVDIDEV-stdio) *//но В�
 
 
 <div>
-  <img src="/thesis_scheme_1.png" width="240" alt="на этой пикче общая схема логики игрового персонажа"/>
-  <img src="/thesis_scheme_2.png" width="240" alt="тут схема противника"/>
-  <img src="/thesis_scheme_3.png" width="240" alt="тут схема работы UI"/>
+  <img src="/thesis_scheme_1.png" width="400" alt="на этой пикче общая схема логики игрового персонажа"/>
+  <img src="/thesis_scheme_2.png" width="400" alt="тут схема противника"/>
+  <img src="/thesis_scheme_3.png" width="400" alt="тут схема работы UI"/>
 </div>
 <p><em>Схема работы логики персонажа и взаимодействия компонентов, из которых он состоит; схема логики противника; схема работы UI</em></p>
 
@@ -62,8 +62,8 @@ GitHub: [github.com/BVDIDEV-stdio](https://github.com/BVDIDEV-stdio) *//но В�
 </div>
 <p><em>Анимационный state machine с логикой перехода анимаций у персонажа</em></p>
 <div>
-  <img src="/thes_ui_1.png" width="240" alt="UI 1"/>
-  <img src="/thes_ui_2.png" width="240" alt="UI 2"/>
+  <img src="/thes_ui_1.png" width="400" alt="UI 1"/>
+  <img src="/thes_ui_2.png" width="400" alt="UI 2"/>
 </div>
 <p><em>Простой юай</em></p>
 
@@ -75,14 +75,14 @@ https://youtu.be/MTQOhWPwzuw
 Этот миниатюрный сниппет-проект включает в себя систему модульных персонажей, а также анимационный риг с инверсной кинематикой ног для "align-а" с наклонными и неровными поверхностями.
 ### Моделинг
 <div>
-  <img src="/SHOTGUN_STYLIZED.png" width="240"/>
-  <img src="/SHOTGUN_STYLIZED_2.png" width="240"/>
+  <img src="/SHOTGUN_STYLIZED.png" width="500"/>
+  <img src="/SHOTGUN_STYLIZED_2.png" width="500"/>
 </div>
 <p><em>Стилизованный дробовик, старая работа</em></p>
 
 <div>
-  <img src="/mp_styl.png" width="240"/>
-  <img src="/mp_styl_2.png" width="240"/>
+  <img src="/mp_styl.png" width="300"/>
+  <img src="/mp_styl_2.png" width="300"/>
 </div>
 <p><em>Стилизованный MP5, тоже старая работа</em></p>
 
@@ -100,14 +100,14 @@ https://youtu.be/MTQOhWPwzuw
 <p><em>Минималистичный персонаж, модель для тренировки</em></p>
 
 <div>
-  <img src="/study_columns.png" width="240"/>
-  <img src="/study_spike_n_arc.png" width="240"/>
+  <img src="/study_columns.png" width="300"/>
+  <img src="/study_spike_n_arc.png" width="300"/>
 </div>
 <p><em>Некоторые из моделей, сделанных в командном проекте для магистратуры</em></p>
 
 <div>
-  <img src="/sawd_off1.png" width="240"/>
-  <img src="/sawd_off2.png" width="240"/>
+  <img src="/sawd_off1.png" width="300"/>
+  <img src="/sawd_off2.png" width="300"/>
 </div>
 <p><em>Стилизованный дробовик-"обрез" для пет-проекта</em></p>
 
