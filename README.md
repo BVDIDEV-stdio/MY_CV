@@ -77,6 +77,42 @@ https://youtu.be/MTQOhWPwzuw
 ![](/sawd_off1.png)
 ![](/sawd_off2.png)
 *Стилизованный дробовик-"обрез" для пет-проекта*
+<div>
+  <img src="/SHOTGUN_STYLIZED.png" width="240"/>
+  <img src="/SHOTGUN_STYLIZED_2.png" width="240"/>
+</div>
+<p><em>Стилизованный дробовик, старая работа</em></p>
+
+<div>
+  <img src="/mp_styl.png" width="240"/>
+  <img src="/mp_styl_2.png" width="240"/>
+</div>
+<p><em>Стилизованный MP5, тоже старая работа</em></p>
+
+<div>
+  <img src="/port_arm.png" width="240"/>
+  <img src="/port_char.png" width="240"/>
+</div>
+<div>
+  <img src="/port_char2.png" width="240"/>
+  <img src="/port_char3.png" width="240"/>
+</div>
+<div>
+  <img src="/port_char4.png" width="240"/>
+</div>
+<p><em>Минималистичный персонаж, модель для тренировки</em></p>
+
+<div>
+  <img src="/study_columns.png" width="240"/>
+  <img src="/study_spike_n_arc.png" width="240"/>
+</div>
+<p><em>Некоторые из моделей, сделанных в командном проекте для магистратуры</em></p>
+
+<div>
+  <img src="/sawd_off1.png" width="240"/>
+  <img src="/sawd_off2.png" width="240"/>
+</div>
+<p><em>Стилизованный дробовик-"обрез" для пет-проекта</em></p>
 
 
 
