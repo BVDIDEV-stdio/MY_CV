@@ -78,7 +78,7 @@ https://youtu.be/MTQOhWPwzuw
   <img src="/SHOTGUN_STYLIZED.png" width="500"/>
   <img src="/SHOTGUN_STYLIZED_2.png" width="500"/>
 </div>
-<p><em>Стилизованный дробовик, старая работа</em></p>
+<p><em>Стилизованный футуристический дробовик, старая работа</em></p>
 
 <div>
   <img src="/mp_styl.png" width="300"/>
