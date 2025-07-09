@@ -128,5 +128,6 @@ Additionally, the project features a placeholder pause menu implemented using a 
   1. This is an ***utterly*** entertaining challenge
   2. With careful game design and weapon balancing (including grip variations, bonuses, and penalties) this system will provide a solid foundation for players to experiment with different builds.
   3. I feel eager to **experiment firsthand** to discover the potential of this kind of system in *first-person shooters*.
-/
+\
+\
 [russian language version](READMErus.md)
