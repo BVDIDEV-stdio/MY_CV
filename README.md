@@ -18,6 +18,7 @@ GitHub: [github.com/BVDIDEV-stdio](https://github.com/BVDIDEV-stdio) *//you ar h
 |                        | Unreal Engine    | Core           | Blueprint, Level Prototyping and Buildup, Animation and Rigging, Shaders and materials                                    |
 | 3D Artist              | Blender          | Intermediate   | Hard Surface Modeling, Organic Modeling, UV Layout, Texturing, Shader Graphs, Skinned Meshes, Rigs, Animation, Mesh Cleanup and Optimization|
 | Languages              | English          | C1             | Advanced                                                                                                            |
+| Game Design            |                  | Core           | Difficluty Progression Curves, Balancing, Feature Design  |
 
 ## Work Experiencs
 ### HSE University (NN Campus):** Unity Programming Tutor: 2024-2025 
