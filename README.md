@@ -30,7 +30,7 @@ In the first semester of 2024-2025 academic year I taught practical classes for 
 - Lab Assignment Review and Grading (grades are recorded in students' project issues; you can access them via my contributions and activity log)\
 In the second semester I advised students working on Unity projects as part of their term paper.
 
-## Портфолио
+## ПPortfolio
 ### Thesis Paper and Graduation Project
 As my graduation project I developed Unity game prototype to showcase the skills I acquired over four years of study. The prototype features a scene that includes:
 - **Player character** capable of running, jumping, attacking and performing combo attacks, as well as shooting a projectile as a secondary attack;
