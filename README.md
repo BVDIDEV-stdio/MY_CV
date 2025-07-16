@@ -103,6 +103,8 @@ The snippet project feature modular character system as well as an animation rig
 <div>
   <img src="/study_columns.png" width="300"/>
   <img src="/study_spike_n_arc.png" width="300"/>
+  <img src="/scr_team_work1" width="300"/>
+  <img src="/scr_team_work2" width="300"/>
 </div>
 <p><em>Some of the models created as part of a team project (top-down stealth action) for my master's program</em></p>
 
